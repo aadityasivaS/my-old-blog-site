@@ -31,4 +31,3 @@ GIT commit has 3 stages they are :-
 3.  **Repository** :- The place where the commit is saved.
 
 So I am ending this post here bye and have a nice day!
-Any queries ask me in the discussions
