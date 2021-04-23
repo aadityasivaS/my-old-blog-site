@@ -3,7 +3,7 @@ title: Contact
 hide_title: false
 sections:
   - content: |
-      ### To Contact me throw me an email at aadityasiva.s@gmail.com
+      ##### To Contact me throw me an email at aadityasiva.s@gmail.com
     actions: []
     type: section_hero
 seo:
