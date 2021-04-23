@@ -2,17 +2,8 @@
 title: Contact
 hide_title: false
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      # To Contact me throw me an email at aadityasiva.s@gmail.com
     actions: []
     type: section_hero
 seo:
