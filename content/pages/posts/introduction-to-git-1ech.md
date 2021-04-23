@@ -15,9 +15,8 @@ layout: post
 thumb_img_path: images/mighty-sage.webp
 content_img_path: images/charming-robin.webp
 ---
-## Lorem ipsum
+## What is GIT and why it is used
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+GIT is a version control system which tracks your files for changes and when it finds changes it saves it in a hidden folder and if you want to keep those changes you can stage these changes and finally commit the changes with a message describing the changes to the main repository or if you want to discard these changes. **Why It is used** This kind of system is really useful when you are collaborating with your team.
 
-- Lorem ipsum
-- dolor sit amet
+So yeah I am ending this small introductory post here stay tuned for the upcoming posts in this series.
