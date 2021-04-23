@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/mighty-sage.webp
 ---
 ## Lorem ipsum
 
