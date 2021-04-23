@@ -15,7 +15,7 @@ layout: post
 thumb_img_path: images/magical-squid.webp
 content_img_path: images/polite-aspen.webp
 ---
-In this post I will be explaining how to use the GIT **CLI(Command Line Interface)**. This will require GIT to be installed on your device if you don't have it then install it by following the steps mentioned in the [previous post](https://dev.to/aadityasivas/installing-git-on-your-system-52on).
+In this post I will be explaining how to use the GIT **CLI(Command Line Interface)**. This will require GIT to be installed on your device if you don't have it then install it by following the steps mentioned in the previous post
 
 ## Before we start
 
