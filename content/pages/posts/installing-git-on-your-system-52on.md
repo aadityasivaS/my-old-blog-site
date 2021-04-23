@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/famous-elm.webp
 ---
 ## Lorem ipsum
 
