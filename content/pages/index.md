@@ -19,10 +19,7 @@ sections:
     type: section_posts
     title: Recent Posts
     posts_number: 4
-    actions:
-      - label: View More
-        url: blog/index.html
-        style: button
+    actions: []
 seo:
   title: Aadityasiva's Blog
   extra:
