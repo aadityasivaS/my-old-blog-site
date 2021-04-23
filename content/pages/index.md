@@ -20,9 +20,13 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Blog
-        url: blog/index.html
+      - url: /blog
         style: button
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+        label: View All Posts
 seo:
   title: Aadityasiva's Blog
   extra:
