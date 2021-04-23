@@ -1,6 +1,6 @@
 ---
 title: Some of my favourite fonts on Google Fonts
-subtitle: lorem-ipsum
+subtitle: 'design, fonts, favourites, discuss'
 date: '2021-04-23'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
