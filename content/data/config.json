@@ -52,17 +52,7 @@
     },
     "footer": {
         "content": "© Aadityasiva Sabarinathan All Rights Reserved",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://my-blog-site-29a75.netlify.app",
     "favicon": "images/icon.webp"
