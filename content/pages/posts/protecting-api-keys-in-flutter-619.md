@@ -1,7 +1,7 @@
 ---
 title: ' Protecting API keys in Flutter '
 subtitle: '#flutter, #security, #inthirtyseconds'
-date: '2021-04-02'
+date: '2021-04-22'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
