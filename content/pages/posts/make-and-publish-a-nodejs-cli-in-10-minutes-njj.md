@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ' Make and publish a NodeJS CLI in 10 minutes!! '
 subtitle: lorem-ipsum
 date: '2021-04-23'
 thumb_img_alt: lorem-ipsum
