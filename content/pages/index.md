@@ -21,7 +21,7 @@ sections:
     posts_number: 4
     actions:
       - url: '#'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
