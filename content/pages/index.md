@@ -26,7 +26,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: View All
+        label: View All Posts
 seo:
   title: Aadityasiva's Blog
   extra:
