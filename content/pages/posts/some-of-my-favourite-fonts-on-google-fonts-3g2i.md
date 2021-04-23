@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 date: '2021-04-22'
+thumb_img_path: images/banner.webp
 ---
 Google Fonts is awesome it has a lot of beautiful fonts which are **free** and **open source**. Here are some of my favourites
 
