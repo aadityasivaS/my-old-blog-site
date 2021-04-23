@@ -26,6 +26,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: See All
 seo:
   title: Aadityasiva's Blog
   extra:
