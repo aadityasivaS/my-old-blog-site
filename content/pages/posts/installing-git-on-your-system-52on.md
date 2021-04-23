@@ -25,15 +25,15 @@ First head over to https://git-scm.com/download/win/ this will start the downloa
 
 #### Step 1
 
- ☝ Locate and open this file after download
+
+
+👆 Locate and open this file after download
 
 #### Step 2
-
 
 Agree to the license after reading it
 
 #### Step 3
-
 
 Choose the **Let GIT decide** Option
 
@@ -66,4 +66,4 @@ To test if it is installed properly run this
 If it is printing the version then **Congrats !!🎉🎊🥳** it is installed successfully.
 
 So I am ending this post here bye and have a nice day!
-Any queries ask me in the discussions
+Any queries ask me in the discussions![](https://res.cloudinary.com/practicaldev/image/fetch/s---arnpU_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw\_880/https://dev-to-uploads.s3.amazonaws.com/i/68m4uwhnnah14plbdlw7.png)
