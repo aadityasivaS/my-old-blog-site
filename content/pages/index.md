@@ -30,7 +30,6 @@ sections:
         style: button
 seo:
   title: Aadityasiva's Blog
-  description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
