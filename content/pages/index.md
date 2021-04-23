@@ -20,7 +20,7 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - url: '#'
+      - url: /blog
         style: button
         icon_class: dev
         new_window: false
