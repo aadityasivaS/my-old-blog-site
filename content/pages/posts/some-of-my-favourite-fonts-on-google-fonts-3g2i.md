@@ -3,7 +3,6 @@ title: Some of my favourite fonts on Google Fonts
 subtitle: '#design, #fonts, #favourites'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
