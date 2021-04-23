@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Installing GIT on your system
 subtitle: lorem-ipsum
 date: '2021-04-23'
 thumb_img_alt: lorem-ipsum
