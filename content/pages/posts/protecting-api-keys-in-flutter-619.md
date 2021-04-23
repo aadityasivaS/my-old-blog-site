@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/royal-parsley.webp
+content_img_path: images/caring-sparrow.webp
 ---
 ## Lorem ipsum
 
