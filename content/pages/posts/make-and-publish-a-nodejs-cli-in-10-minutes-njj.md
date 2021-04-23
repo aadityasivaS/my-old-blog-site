@@ -1,7 +1,7 @@
 ---
 title: ' Make and publish a NodeJS CLI in 10 minutes!! '
 subtitle: '#node, #npm, #javascript'
-date: '2021-04-23'
+date: '2021-01-30'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
