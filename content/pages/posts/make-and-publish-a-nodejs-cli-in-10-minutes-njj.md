@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/wonderful-kangaroo.webp
+content_img_path: images/superb-celery.webp
 ---
 ## Lorem ipsum
 
