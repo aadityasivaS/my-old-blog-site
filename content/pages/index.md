@@ -20,8 +20,7 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         icon_class: dev
         new_window: false
