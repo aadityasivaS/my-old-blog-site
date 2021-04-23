@@ -41,7 +41,5 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Aadityasiva's Blog
-    - name: 'twitter:description'
-      value: The preview of the Fresh theme
 layout: advanced
 ---
