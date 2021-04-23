@@ -1,7 +1,7 @@
 ---
 title: ' Using the GIT CLI '
 subtitle: '#git, #bash, #tutorial'
-date: '2021-03-23'
+date: '2021-02-23'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
