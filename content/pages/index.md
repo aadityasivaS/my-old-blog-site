@@ -10,7 +10,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: "\U0001F44B I am Aadityasiva Sabarinathan welcome to my site I am a cross-platform developer and a graphic designer. I develop for mobile, desktop, web and packages for other developers.\n\n"
+    content: "\U0001F44B I am Aadityasiva Sabarinathan welcome to my blogI am a cross-platform developer and a graphic designer. I develop for mobile, desktop, web and packages for other developers.\n"
     actions:
       - label: Contact Me
         url: /contact
